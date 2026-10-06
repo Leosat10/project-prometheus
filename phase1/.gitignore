@@ -1,0 +1,15 @@
+# Containerlab runtime files
+clab-*/
+*.log
+
+# Evidence and backups
+evidence/*.sav
+*_working.conf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc

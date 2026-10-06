@@ -1,0 +1,2 @@
+131: eth3@if132: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 9500 master br10 state forwarding priority 32 cost 2 
+6: vxlan10: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 master br10 state forwarding priority 32 cost 100 

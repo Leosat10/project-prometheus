@@ -1,0 +1,14 @@
+# Containerlab runtime
+clab-*/
+*.log
+
+# Evidence backups
+*.sav
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
