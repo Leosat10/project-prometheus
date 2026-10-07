@@ -202,8 +202,7 @@ docker exec clab-phase2-leaf1 bridge fdb show dev vxlan10
 ## How to Run
 
 ### Prerequisites
-
-- Ubuntu 22.04 (or WSL2 on Windows)
+- OS: Arch Linux (bare metal, host OS)
 - Docker installed
 - Containerlab installed
 
