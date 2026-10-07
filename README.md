@@ -202,9 +202,10 @@ docker exec clab-phase2-leaf1 bridge fdb show dev vxlan10
 ## How to Run
 
 ### Prerequisites
-- OS: Arch Linux (bare metal, host OS)
-- Docker installed
-- Containerlab installed
+
+- **OS:** Arch Linux, any Linux distro, or Windows/macOS with a Linux VM (WSL2, UTM, VirtualBox, VMware)
+- **Docker:** Installed and running on the Linux host
+- **Containerlab:** Installed on the same Linux host
 
 ```bash
 bash -c "$(curl -sL https://containerlab.dev/install)"
